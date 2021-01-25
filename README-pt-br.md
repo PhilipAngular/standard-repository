@@ -6,6 +6,10 @@
 <!-- ## **Status do Projeto:** 🔧 Em construção... 🔨 -->
 <!-- ## **Status do Projeto:** ✅ Finalizado ✅ -->
 
+**ENGLISH:** if you want to see this documentation in English, please access [README.md](README.md).
+
+**PORTUGUÊS:** caso você queira ver essa documentação em Inglês, favor acessar [README.md](README.md).
+
 [![GitHub license](https://img.shields.io/github/license/PhilipAngular/standard-repository?color=96C40F)](LICENSE)
 
 ## Sumário
