@@ -1,50 +1,46 @@
-# Application Name
+# Nome Do Aplicativo
 
 ![Standard Repository](https://repository-images.githubusercontent.com/332821740/d60c9480-5f16-11eb-9b1e-827f2ee1b28c)
 
-## **Project Status:** ⏰ Waiting for the start ⏰
-<!-- ## **Project Status:** 🔧 Under construction... 🔨 -->
-<!-- ## **Project Status:** ✅ Finished ✅ -->
-
-**ENGLISH:** if you want to see this documentation in Brazil-Portuguese, please access [README-pt-br.md](README-pt-br.md).
-
-**PORTUGUÊS:** caso você queira ver essa documentação em Português-Brasil, favor acessar [README-pt-br.md](README-pt-br.md).
+## **Status do Projeto:** ⏰ Aguardando o início ⏰
+<!-- ## **Status do Projeto:** 🔧 Em construção... 🔨 -->
+<!-- ## **Status do Projeto:** ✅ Finalizado ✅ -->
 
 [![GitHub license](https://img.shields.io/github/license/PhilipAngular/standard-repository?color=96C40F)](LICENSE)
 
-## Summary
+## Sumário
 
-- [About the application](#-about-the-application)
+- [Sobre a aplicação](#-sobre-a-aplicação)
     <!-- - [Features](#-features)
-    - [Application Demo](#-application-demo)
-    - [Technologies chosen](#-technologies-chosen)
-    - [Prerequisites](#-prerequisites)
-        - [Installations](#-installations)
-        - [Configurations](#-configurations)
-    - [Launch application](#-launch-application)
-    - [Run tests](#-run-tests)
-    - [Final Remarks](#-final-remarks)
-    - [Contributions](#-contributions)
-        - [Core Team](#-core-team)
-        - [All Contributors](#-all-contributors) -->
-- [Author](#-author)
-- [License](#-license)
+    - [Demonstração da aplicação](#-demonstração-da-aplicação)
+    - [Tecnologias escolhidas](#-tecnologias-escolhidas)
+    - [Pré-requisitos](#-pré-requisitos)
+    - [Instalações](#-instalações)
+    - [Configurações](#-configurações)
+    - [Subir aplicação](#-subir-aplicação)
+    - [Executar testes](#-executar-testes)
+    - [Observações Finais](#-observações-finais)
+    - [Contribuições](#-contribuições)
+    - [Equipe Principal](#-equipe-principal)
+    - [Todos da Equipe](#-todos-da-equipe) -->
+- [Autor](#-autor)
+- [Licença](#-licença)
 
-## 💻 About the application
+## 💻 Sobre a aplicação
 
-<!-- Brief description of the application. -->
+<!-- Breve descrição da aplicação. -->
 
 <!-- ## 🎯 Features
 
-- [x] User registration
-- [x] Customer registration
-- [ ] Product registration -->
+- [x] Cadastro de usuário
+- [x] Cadastro de cliente
+- [ ] Cadastro de produtos -->
 
-<!-- ## 🎮 Application Demo
+<!-- ## 🎮 Demonstração da aplicação
 
-Hosted app url. -->
+Url da aplicação hospedada. -->
 
-<!-- ## 🛠 Technologies chosen
+<!-- ## 🛠 Tecnologias escolhidas
 
 - [Expo](https://expo.io/)
 - [Node.js](https://nodejs.org/en/)
@@ -52,17 +48,17 @@ Hosted app url. -->
 - [React Native](https://reactnative.dev/)
 - [TypeScript](https://www.typescriptlang.org/) -->
 
-<!-- ## 📝 Prerequisites
+<!-- ## 📝 Pré-requisitos
 
-In this section I will explain what is necessary to install and configure in order to upload the application and/or run the tests. -->
+Nesta seção explicarei aquilo que é necessário instalar e configurar para poder subir a aplicação e/ou rodar os testes. -->
 
-<!-- ### 💿 Installations
+<!-- ### 💿 Instalações
 
 - A
 - B
 - C -->
 
-<!-- ### 🔧 Configurations -->
+<!-- ### 🔧 Configurações -->
 
 <!-- #### VSCode
 
@@ -70,41 +66,41 @@ In this section I will explain what is necessary to install and configure in ord
 1. B
 1. C -->
 
-<!-- #### Other technology
+<!-- #### Outra tecnologia
 
 1. A
 1. B
 1. C -->
 
-<!-- ## ▶️ Launch application
+<!-- ## ▶️ Subir aplicação
 
 1. A
 1. B
 1. C -->
 
-<!-- ## 🔍 Run tests
+<!-- ## 🔍 Executar testes
 
 1. A
 1. B
 1. C -->
 
-<!-- ## 📜 Final Remarks
+<!-- ## 📜 Observações Finais
 
-Brief description at the end of the project. -->
+Breve descrição ao finalizar o projeto. -->
 
-<!-- ## 👪 Contributions
+<!-- ## 👪 Contribuições
 
-I am very grateful to all people who helped in this project, and for this reason this section serves to introduce these users so well intentioned. Thank you so much!
+Agradeço imensamente à todas as pessoas que ajudaram nesse projeto, e por esse motivo esta seção serve para apresentar esses usuários tão bem intensionados. Muito Obrigado!
 
-**NOTE:** If you are interested in being a CONTRIBUTOR, then please read this [step by step](CONTRIBUTING.md). -->
+**OBS.:** Caso você tenha interesse em ser um CONTRIBUIDOR, então por favor leia esse [passo a passo](CONTRIBUTING.md). -->
 
-<!-- ### 🔦 Core Team -->
+<!-- ### 🔦 Equipe Principal -->
 
 <!-- prettier-ignore-start -->
 <!-- markdownlint-disable -->
 <!-- <table>
   <tr>
-    <td align="center"><a href="MAIN_CONTRIBUTOR_SITE_URL"><img src="CONTRIBUTOR_AVATAR_GITHUB_URL" width="100px;" alt=""/><br /><sub><b>Persons name</b></sub></a><br /><sub>Title Any</sub></td>
+    <td align="center"><a href="URL_DO_SITE_PRINCIPAL_DO_CONTRIBUIDOR"><img src="URL_DO_AVATAR_GITHUB_DO_CONTRIBUIDOR" width="100px;" alt=""/><br /><sub><b>Nome da Pessoa</b></sub></a><br /><sub>Título Qualquer</sub></td>
     <td align="center"><a href="https://www.linkedin.com/in/philip-delling/"><img src="https://avatars.githubusercontent.com/u/16709062?v=4" width="100px;" alt=""/><br /><sub><b>Philip I. T. Delling</b></sub></a><br /><sub>creator</sub></td>
   </tr> -->
   <!-- <tr>
@@ -122,19 +118,19 @@ I am very grateful to all people who helped in this project, and for this reason
 <!-- markdownlint-restore -->
 <!-- prettier-ignore-end -->
 
-<!-- ### 🌟 All Contributors
+<!-- ### 🌟 Todos da equipe
 
-To see all contributors to this project, please [click here](CONTRIBUTORS.md). -->
+Para ver todos os contribuidores deste probjeto, por favor [clique aqui](CONTRIBUTORS.md). -->
 
-## 👤 Author
+## 👤 Autor
 
-![Philip - Professional Photo-small](https://user-images.githubusercontent.com/16709062/105726472-e3228700-5f08-11eb-8449-42683562439b.jpg)
+![Philip - Foto Profissional-pequeno](https://user-images.githubusercontent.com/16709062/105726472-e3228700-5f08-11eb-8449-42683562439b.jpg)
 
-Application created by [Philip Ibbotson T. Delling](https://github.com/PhilipAngular). Contact me 👋:
+Aplicação criada por [Philip Ibbotson T. Delling](https://github.com/PhilipAngular). Entre em contato 👋:
 
 [![Linkedin Badge](https://img.shields.io/badge/-Philip&nbsp;Ibbotson&nbsp;T.&nbsp;Delling-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tgmarinho/)](https://www.linkedin.com/in/philip-delling/)
 [![Gmail Badge](https://img.shields.io/badge/-philip.i.t.delling@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:philip.i.t.delling@gmail.com)](mailto:tgmarinho@gmail.com)
 
-## 🌠 License
+## 🌠 Licença
 
-This project is under license [MIT](LICENSE)
+Este projeto está sobre a licença [MIT](LICENSE)
