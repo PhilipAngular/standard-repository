@@ -1,0 +1,44 @@
+{
+  "files": [
+    "CONTRIBUTORS.md"
+  ],
+  "imageSize": 100,
+  "commit": true,
+  "contributors": [
+    {
+      "login": "sanlazarini",
+      "name": "Sandra Lazarini",
+      "avatar_url": "https://avatars.githubusercontent.com/u/44308877?v=4",
+      "profile": "https://github.com/sanlazarini",
+      "contributions": [
+        "doc"
+      ]
+    },
+    {
+      "login": "jvrvieira-philips",
+      "name": "João Vieira",
+      "avatar_url": "https://avatars.githubusercontent.com/u/70169549?v=4",
+      "profile": "https://github.com/jvrvieira-philips",
+      "contributions": [
+        "doc"
+      ]
+    },
+    {
+      "login": "evieira1472",
+      "name": "Everton Vieira",
+      "avatar_url": "https://avatars.githubusercontent.com/u/17409138?v=4",
+      "profile": "https://github.com/evieira1472",
+      "contributions": [
+        "doc"
+      ]
+    }
+  ],
+  "contributorsPerLine": 7,
+  "contributorsSortAlphabetically": true,
+  "contributorTemplate": "<a href=\"<%= contributor.profile %>\"><img src=\"<%= contributor.avatar_url %>\" width=\"<%= options.imageSize %>px;\" alt=\"\"/><br /><sub><b><%= contributor.name %></b></sub></a>",
+  "projectName": "standard-repository",
+  "projectOwner": "PhilipAngular",
+  "repoType": "github",
+  "repoHost": "https://github.com",
+  "skipCi": true
+}
