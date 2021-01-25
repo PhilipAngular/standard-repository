@@ -1,0 +1,27 @@
+{
+  "name": "standard-repository",
+  "version": "1.0.0",
+  "description": "ENGLISH: Standard repository to be a template for other repositories. PORTUGUÊS: Repositório padrão usado como template para outros repositórios.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PhilipAngular/standard-repository.git"
+  },
+  "author": "PhilipAngular",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/PhilipAngular/standard-repository/issues"
+  },
+  "homepage": "https://github.com/PhilipAngular/standard-repository#readme",
+  "dependencies": {
+    "commitizen": "^4.2.2"
+  },
+  "config": {
+    "commitizen": {
+      "path": "./config/cz"
+    }
+  }
+}
