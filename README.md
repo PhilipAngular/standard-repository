@@ -132,7 +132,7 @@ To see all contributors to this project, please [click here](CONTRIBUTORS.md). -
 
 Application created by [Philip Ibbotson T. Delling](https://github.com/PhilipAngular). Contact me 👋:
 
-[![Linkedin Badge](https://img.shields.io/badge/-Philip&nbsp;Ibbotson&nbsp;T.&nbsp;Delling-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tgmarinho/)](https://www.linkedin.com/in/philip-delling/)
+[![Linkedin Badge](https://img.shields.io/badge/-Philip&nbsp;Ibbotson&nbsp;T.&nbsp;Delling-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/philip-delling/)](https://www.linkedin.com/in/philip-delling/)
 [![Gmail Badge](https://img.shields.io/badge/-philip.i.t.delling@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:philip.i.t.delling@gmail.com)](mailto:philip.i.t.delling@gmail.com)
 
 ## 🌠 License

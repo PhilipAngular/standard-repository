@@ -128,7 +128,7 @@ Para ver todos os contribuidores deste probjeto, por favor [clique aqui](CONTRIB
 
 Aplicação criada por [Philip Ibbotson T. Delling](https://github.com/PhilipAngular). Entre em contato 👋:
 
-[![Linkedin Badge](https://img.shields.io/badge/-Philip&nbsp;Ibbotson&nbsp;T.&nbsp;Delling-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tgmarinho/)](https://www.linkedin.com/in/philip-delling/)
+[![Linkedin Badge](https://img.shields.io/badge/-Philip&nbsp;Ibbotson&nbsp;T.&nbsp;Delling-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/philip-delling/)](https://www.linkedin.com/in/philip-delling/)
 [![Gmail Badge](https://img.shields.io/badge/-philip.i.t.delling@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:philip.i.t.delling@gmail.com)](mailto:philip.i.t.delling@gmail.com)
 
 ## 🌠 Licença
